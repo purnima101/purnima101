@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gym Website**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **React, Django, Python**
 
